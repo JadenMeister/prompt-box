@@ -1,0 +1,5 @@
+{
+  "name": "prompt-box-marketplace",
+  "owner": { "name": "JadenMeister" },
+  "plugins": [{ "name": "prompt-box", "source": "./" }]
+}
